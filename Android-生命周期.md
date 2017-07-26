@@ -3,7 +3,9 @@ title: Android_生命周期
 date: 2017-07-23 21:08:38
 tags:
 ---
+
 一把都是成对出现的 onCreate--onDestroy onStart--onStop onResume--onPause
+
 <!--more-->
 
 ### Activity

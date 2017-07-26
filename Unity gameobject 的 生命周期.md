@@ -51,6 +51,5 @@ tags: iOS
 * GetComponent<Rigidbody> ().AddForce (vec3);
 
   给刚体添加力
-  
-<!--more-->
 
+<!--more-->
